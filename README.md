@@ -6,6 +6,6 @@ This repository contains python file for speech recognition
 
 SpeechRecognition
 
-For more details,click the following link
+For more details,click the following link \n\n
 Link: 
 https://pypi.org/project/SpeechRecognition/
